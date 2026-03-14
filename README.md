@@ -1,6 +1,6 @@
-# x.y - Template
+# M.1 - Physics of Semiconductors
 
-Repository for "Template".
+Repository for "Physics of Semiconductors".
 
 
 ## Use instructions
